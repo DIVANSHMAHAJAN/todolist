@@ -1,0 +1,19 @@
+#ultasks li.done
+{
+	color:#6c757d;
+	text-decoration: line-through;
+}
+#sizing
+{
+	width: 100%;
+}
+.btn
+{
+	display: block;
+	width: 100%;
+}
+
+.col-sm-3
+{
+	padding-right: 0px;
+}
